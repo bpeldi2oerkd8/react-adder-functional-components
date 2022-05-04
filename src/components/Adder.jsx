@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import './css/Adder.css';
 
 const Adder = () => {
   const [sum, setSum] = useState(0);
@@ -34,8 +35,10 @@ const Adder = () => {
     <div className="adder">
       <h2>合計：{sum}</h2>
       <p>増加量：<input type="number" value={increase} onChange={changeIncrease}/></p>
-      <button onClick={add}>足す</button>
-      <button onClick={reset}>リセット</button>
+      <div className="buttons">
+        <button onClick={add}>足す</button>
+        <button onClick={reset}>リセット</button>
+      </div>
     </div>
   );
 };

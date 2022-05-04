@@ -1,4 +1,5 @@
 import Adder from './components/Adder';
+import "./App.css";
 
 const App = () => {
   return (

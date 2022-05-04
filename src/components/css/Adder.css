@@ -1,0 +1,27 @@
+.adder {
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons button {
+  background: #dcdcdc;
+  border: 1px solid;
+  border-radius: 3px;
+  position: relative;
+  margin: 0 auto;
+  max-width: 280px;
+  padding: 10px 25px;
+  color: #313131;
+  transition: 0.3s ease-in-out;
+  font-weight: 500;
+}
+
+.buttons button:hover {
+  background: #313131;
+  color: #FFF;
+}
