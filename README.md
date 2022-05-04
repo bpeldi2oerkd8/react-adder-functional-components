@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# react-adder-functional-components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Reactで作られた足し算アプリ（関数コンポーネントとReact Hooksを使用）  
+[Create React App](https://github.com/facebook/create-react-app)で作られています。  
+
+## デモ
+[このページ](https://bpeldi2oerkd8.github.io/react-adder-functional-components/)で確認できます。  
+
+## 機能
+増加量（0以上の整数）を入力し、「足す」ボタンを押すと合計の値に指定した増加量が加算されます。  
+「リセット」ボタンを押すと、0に戻ります。  
+入力に誤りがあった場合は、アラートが出ます。  
+
+## 比較
+Vue3版は[こちら](https://github.com/bpeldi2oerkd8/vue3-adder-script-setup)  
 
 ## Available Scripts
 
