@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-adder-functional-components/static/css/main.c0d0e5aa.css",
+    "main.js": "/react-adder-functional-components/static/js/main.f6ea063b.js",
+    "static/js/787.29ee441b.chunk.js": "/react-adder-functional-components/static/js/787.29ee441b.chunk.js",
+    "index.html": "/react-adder-functional-components/index.html",
+    "main.c0d0e5aa.css.map": "/react-adder-functional-components/static/css/main.c0d0e5aa.css.map",
+    "main.f6ea063b.js.map": "/react-adder-functional-components/static/js/main.f6ea063b.js.map",
+    "787.29ee441b.chunk.js.map": "/react-adder-functional-components/static/js/787.29ee441b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d0e5aa.css",
+    "static/js/main.f6ea063b.js"
+  ]
+}
